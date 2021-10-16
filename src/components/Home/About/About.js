@@ -8,7 +8,7 @@ const About = () => {
     return (
         <div className="container">
             <div className="row">
-                <div className="col-4">
+                <div className="col-4 about-text">
                     <h4 className="text-center text-danger">Why you chose us?</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto minima provident voluptatem doloremque eum, at est non nesciunt veritatis illum, dolorem delectus quod natus sunt maiores quibusdam qui omnis modi.</p>
                 </div>
