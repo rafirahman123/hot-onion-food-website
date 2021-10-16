@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Fried rice with  lemon mutton",
+        "price": "$12.99",
+        "description": "How we dream about our future",
+        "img": "https://i.ibb.co/MSJN8vJ/dinner1.png"
+    },
+    {
+        "id": 2,
+        "name": "Lemony salmon piccata",
+        "price": "$10.99",
+        "description": "How we dream about our future",
+        "img": "https://i.ibb.co/h9wwZwk/dinner2.png"
+    },
+    {
+        "id": 3,
+        "name": "Garlic butter Baked salmon",
+        "price": "$10.99",
+        "description": "How we dream about our future",
+        "img": "https://i.ibb.co/7yBmTPZ/dinner3.png"
+    },
+    {
+        "id": 4,
+        "name": " Backed chiken",
+        "price": "$18.99",
+        "description": "How we dream about our future",
+        "img": "https://i.ibb.co/Wzc9BB7/dinner4.png"
+    },
+    {
+        "id": 5,
+        "name": "French-fry with cheese",
+        "price": "$7.99",
+        "description": "How we dream about our future",
+        "img": "https://i.ibb.co/cgdWZWT/dinner5.png"
+    },
+    {
+        "id": 6,
+        "name": "Salmon with grapefruit and lentil salad",
+        "price": "$13.99",
+        "description": "How we dream about our future",
+        "img": "https://i.ibb.co/N3z7hQs/dinner6.png"
+    }
+]
