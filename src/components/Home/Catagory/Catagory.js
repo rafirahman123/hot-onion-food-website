@@ -9,7 +9,7 @@ import Dinners from './Dinners/Dinners';
 const Catagory = () => {
     return (
         <div>
-            <Navbar bg="light" variant="light">
+            <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
                 <Navbar.Collapse className="justify-content-center">
                     <Nav.Link href="#breakfast">Breakfast</Nav.Link>
                     <Nav.Link href="#lunches">Lunches</Nav.Link>
